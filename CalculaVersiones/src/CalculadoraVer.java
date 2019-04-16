@@ -22,4 +22,7 @@ public class CalculadoraVer {
 		return n1*n2;
 	}
 	
+	public double dividir() {
+		return n1/n2;
+	}
 }
