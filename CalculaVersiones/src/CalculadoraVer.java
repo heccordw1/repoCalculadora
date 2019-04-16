@@ -25,4 +25,9 @@ public class CalculadoraVer {
 	public double dividir() {
 		return n1/n2;
 	}
+	
+	static public double raizNdeX(int n, int indice) {
+		double resul=(double)Math.pow(n, (double)1/indice);
+		return resul;
+	}
 }
