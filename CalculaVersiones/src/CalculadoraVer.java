@@ -14,4 +14,8 @@ public class CalculadoraVer {
 		return n1+n2;
 	}
 	
+	public int restar() {
+		return n1-n2;
+	}
+	
 }
