@@ -10,5 +10,8 @@ public class CalculadoraVer {
 		this.n2 = n2;
 	}
 	
+	public int sumar() {
+		return n1+n2;
+	}
 	
 }
